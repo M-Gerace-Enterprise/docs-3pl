@@ -1,4 +1,4 @@
-#WS4: Inventory Reconciliation
+# WS4: Inventory Reconciliation
 
 GWSI sends daily inventory reconciliation reports to the customer.
 
