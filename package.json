@@ -1,0 +1,14 @@
+{
+  "name": "docs-3pl",
+  "version": "0.1.0",
+  "description": "3PL API integration notes",
+  "author": {
+    "name": "Phil Sinatra",
+    "email": "code@philsinatra.com"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  }
+}

@@ -1,0 +1,6 @@
+* [Home](/)
+* [WS0: MPL Data](WS0.md)
+* [WS1: Container Reception](WS1.md)
+* [WS2: Order Check](WS2.md)
+* [WS3: Outbound Delivery Confirmation](WS3.md)
+* [WS4: Inventory Reconciliation](WS4.md)
